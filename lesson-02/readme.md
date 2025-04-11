@@ -91,15 +91,7 @@
 | `<details>`      | Details (detallar)           | Bosilganda ochiladigan qo‘shimcha matnni yaratadi. | |
 | `<summary>`      | Summary (sarlavha)           | `<details>` tegi ichida ko‘rinadigan sarlavha bo‘lib xizmat qiladi. |  |
 
-## How to Use
 
-1. Each tag has a defined meaning and purpose in HTML.
-2. The examples provided show how each tag is used in HTML code.
-3. You can copy and paste the examples into your own projects to see them in action.
-
-## License
-
-This document is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 <br><br><br><br>
 
