@@ -1,7 +1,24 @@
 <h1 style="color:orange;">Lesson - 02 | html & Css3</h1>
 
-ush
+## Html
+- Table in Html
+- Button (tag html)
+- input (tag html)
+  - placeholder
+- Form (tag html)
+- option (tag html)
 
+
+## CSS
+- Display
+  - inline
+  - block
+  - inline-block
+  - none
+- px
+- Padding & Margin
+- Box model
+- Box-sizing
 
 <br><br><br><br><br><br>
 
