@@ -1,0 +1,46 @@
+
+
+
+/* rgb */
+/* h1 {
+    color: rgb(0, 190, 25);
+} */
+
+
+/* h1 {
+    color: rgba(255, 0, 0, 1);
+} */
+
+
+
+/* id */
+/*
+#heading1{
+    color: aqua;
+} */
+
+
+
+/* class */
+/* .heading1Tag{
+    color: blueviolet;
+    background-color: cadetblue;
+} */
+
+
+
+/* attribute selector */
+
+/* [thisIsH1]{
+    color: brown;
+    background-color: rgba(255, 0, 0, 0.248);
+} */
+
+
+
+
+/* universal selector */
+
+/* * {
+    color: red;
+} */

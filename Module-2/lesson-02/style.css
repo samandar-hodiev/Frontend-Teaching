@@ -1,0 +1,40 @@
+
+
+
+.box1 {
+    width: 100px;
+    padding: 20px;
+    border: 5px solid black;
+    
+    box-sizing: content-box;
+}
+
+
+.box2 {
+    width: 100px;
+    padding: 20px;
+    border: 5px solid black;
+
+    box-sizing: border-box;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    margin-top: 20px;
+}
