@@ -1,0 +1,24 @@
+/*
+
+button{
+    margin: 120px;
+
+
+width: 120px;
+height: 46px;
+background-color:rgb(255, 0, 0);
+border:3px rgb(109, 65, 211) solid;
+border-radius:12px;
+cursor: pointer;
+
+transition:0.3s;
+}
+
+
+button:hover{
+    background-color:rgba(0, 83, 227, 0.611);
+}
+
+button:active{
+    background-color: rgb(0, 249, 21);
+} */
