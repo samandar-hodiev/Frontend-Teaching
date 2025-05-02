@@ -1,0 +1,81 @@
+
+/*
+*display:block;
+display:inline;
+display:inline-block;
+display:none;
+
+display:flex;
+ */
+
+
+
+/* h2{
+    background-color: rgba(255, 0, 0, 0.589);
+    width: 500px;
+    height: 120px;
+}
+
+span{
+    background-color: rgba(255, 105, 180, 0.691);
+    width: 500px;
+    height: 120px;
+} */
+
+
+
+/*
+
+.parent{
+    background-color: rgba(255, 0, 0, 0.606);
+    height: 300px;
+    display: flex;
+
+
+    /* justify-content:space-evenly; */
+    /* flex-wrap:wrap-reverse; */
+    /* flex-direction:column-reverse; */
+    /* flex-direction: column; */
+    /* align-items:stretch; */
+    /* flex-wrap: wrap; */
+    /* align-content:space-evenly; */
+
+    /* flex-direction: column; */
+
+
+
+
+/*
+.child1{
+    order:6;
+}
+
+.child2{
+    order: 5;
+}
+
+.child3{
+    order: 4;
+}
+
+.child4{
+    order: 3;
+}
+
+.child5{
+    order: 2;
+}
+
+.child6{
+    order: 1;
+}
+
+
+.child{
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 255, 0.585);
+    padding: 20px;
+    margin: 4px;
+} */
